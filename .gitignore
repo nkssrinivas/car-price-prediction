@@ -7,6 +7,8 @@ __pycache__/
 .venv/
 venv/
 
+# Data files (keep local, not in repo)
+
 # Models (large files, keep local)
 models/
 *.pkl
